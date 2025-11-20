@@ -56,8 +56,8 @@ processbridge/
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd todaystech
+git clone https://github.com/ConsentirDev/processbridge.neurotech.git
+cd processbridge.neurotech
 ```
 
 2. Install dependencies:
